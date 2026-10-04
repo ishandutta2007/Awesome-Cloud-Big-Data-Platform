@@ -58,9 +58,9 @@ Platforms are sorted by company size, annualized revenue, and market valuation (
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-Sorted by GitHub star count (descending) 🌟. Star badge links directly to each repo's stargazers page!
+Sorted by GitHub Stars_Count (descending) 🌟. Stars_Badge links directly to each repo's stargazers page!
 
-| Repo 📦 | Description 📝 | Stars ⭐ |
+| Repo 📦 | Description 📝 | GitHub_Stars ⭐ |
 |:---|:---|:---|
 | **[Apache Spark](https://github.com/apache/spark)** | Unified analytics engine for large-scale data processing. Batch, streaming, SQL, ML, and graph processing. | [<img src="https://img.shields.io/github/stars/apache/spark?style=social&color=white" alt="Apache Spark Stars"/>](https://github.com/apache/spark/stargazers) |
 | **[Apache Kafka](https://github.com/apache/kafka)** | Distributed event streaming platform for high-throughput real-time data pipelines. | [<img src="https://img.shields.io/github/stars/apache/kafka?style=social&color=white" alt="Apache Kafka Stars"/>](https://github.com/apache/kafka/stargazers) |
@@ -125,3 +125,12 @@ Thank you for being part of the cloud data community! 🙏
 <p align="center">
   <b>Built for Data Engineers, Data Architects, and Platform Teams worldwide.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Big-Data-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Big-Data-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Big-Data-Platform_growth.svg">
+  </picture>
+</a>
